@@ -1,6 +1,6 @@
 
 
-![Full Stack Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Full Stack Developer](https://github.com/LucasMarchetti/LucasMarchetti/blob/main/banner2.jpg)
 
 # Lucas Marchetti
 ## Full Stack Developer
