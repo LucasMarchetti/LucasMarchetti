@@ -3,7 +3,7 @@
 ![Full Stack Developer](https://github.com/LucasMarchetti/LucasMarchetti/blob/main/banner2.jpg)
 
 # Lucas Marchetti
-Hola a todos 👋, soy Lucas de Catamarca, Argentina. Me gradué en soyHenry como desarrollador web Full-Stack.
+Hola a todos 👋, soy Lucas de Catamarca, Argentina. Me gradué en soyHenry como desarrollador web Full-Stack y ademas de seguir trabajando de forma autodidacta sigo mi camino IT estudiando Ingenieria en Informática en la Universidad Nacional de Catamarca.
 
 🛠 Tengo experiencia trabajando con lenguajes y tecnologías como:
 <p align="left"> 
