@@ -14,10 +14,6 @@ Con pensamiento creativo, resolución de problemas, trabajo en equipo, comunicac
 
 También he trabajado con metodologías SCRUM y GitHubFlow.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasMarchetti)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LucasMarchetti&label=Profile%20views&color=0e75b6&style=flat" alt="hiramgnc" /> </p>
-
 ## Conectate conmigo:
 
 ### Email 
