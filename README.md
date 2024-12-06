@@ -1,6 +1,6 @@
 
 
-![Full Stack Developer](https://github.com/LucasMarchetti/LucasMarchetti/blob/main/Portada.png)
+![Full Stack Developer](https://github.com/LucasMarchetti/LucasMarchetti/blob/main/banner.png)
 
 Soy desarrollador web con experiencia en la creación de soluciones tecnológicas para la gestión de sistemas complejos. Como estudiante de Ingeniería Informática en la Universidad Nacional de Catamarca y con formación como Full Stack Web Developer en Henry, combino una sólida base teórica con un enfoque práctico en tecnologías web.
 
