@@ -2,9 +2,13 @@
 
 ![Full Stack Developer](https://github.com/LucasMarchetti/LucasMarchetti/blob/main/banner.png)
 
-Soy desarrollador web con experiencia en la creación de soluciones tecnológicas para la gestión de sistemas complejos. Como estudiante de Ingeniería Informática en la Universidad Nacional de Catamarca y con formación como Full Stack Web Developer en Henry, combino una sólida base teórica con un enfoque práctico en tecnologías web.
+Como Desarrollador de páginas web autónomo, he creado soluciones tecnológicas que impulsan la Liga Regional de Voleibol del NOA Argentino, optimizando la gestión de torneos y automatizando procesos clave. Mi formación en la Tecnicatura en Diseño de Software en la Universidad Nacional de Catamarca, junto con la especialización en Full Stack Web Development de Henry, respalda mi enfoque práctico y teórico en el desarrollo de tecnologías web modernas.
 
-Mi experiencia incluye el desarrollo de aplicaciones seguras y eficientes, destacando en la optimización de procesos y la integración de innovaciones para mejorar la experiencia del usuario. Trabajo con metodologías ágiles como SCRUM, lo que me permite adaptarme a cambios y colaborar efectivamente en equipo.
+Mis competencias clave incluyen JavaScript, React, Sequelize.js, Express, Redux/Toolkit, PostgreSQL, JWT y BCrypt, que utilizo para construir aplicaciones web seguras, escalables y eficientes. Además, cuento con experiencia en el consumo y la integración de APIs RESTful utilizando Axios, implementando flujos de datos robustos entre el frontend y el backend, así como optimizando la comunicación con servicios externos para garantizar un rendimiento confiable.
+
+También he trabajado con una variedad de librerías de UI, como React Beautiful DnD, React Icons y React Toastify, así como en la creación de animaciones dinámicas con GSAP para enriquecer la experiencia del usuario.
+
+Mi enfoque está centrado en la colaboración y el aprendizaje continuo, integrando constantemente innovaciones que mejoren la experiencia de usuario y optimicen la gestión de sistemas complejos.
 
 # Contacto :
 ### Email 
