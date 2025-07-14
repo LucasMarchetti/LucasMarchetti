@@ -24,11 +24,17 @@ Mi enfoque está centrado en la colaboración y el aprendizaje continuo, integra
   <code><img height="35rem" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" /></code>
   <code><img alt="HTML5" height="35rem" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></code>
   <code><img height="35rem" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></code>
+  <code><img height="35rem" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></code>
+  <code><img height="35rem" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"></code>
+  <code><img height="35rem" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></code>
 <br />
 
 ### Contacto
 <a href="https://www.linkedin.com/in/marchetti-lucas/">
   <code><img height="35rem" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></code>
+</a>
+<a href="https://lucasmarchetti.netlify.app/">
+  <code><img height="35rem" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></code>
 </a>
 
 ***
