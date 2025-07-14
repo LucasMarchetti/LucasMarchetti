@@ -22,7 +22,6 @@ Mi enfoque está centrado en la colaboración y el aprendizaje continuo, integra
   <code><img height="35rem" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" /></code>
   <code><img alt="HTML5" height="35rem" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></code>
   <code><img height="35rem" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></code>
-  <code><img height="35rem" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" /></code>
 <br />
 
 ***
