@@ -28,6 +28,7 @@ Mi enfoque está centrado en la colaboración y el aprendizaje continuo, integra
   <code><img height="35rem" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"></code>
   <code><img height="35rem" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></code>
   <code><img height="35rem" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"></code>
+  <code><img height="35rem" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></code>
 <br />
 
 ### Contacto
