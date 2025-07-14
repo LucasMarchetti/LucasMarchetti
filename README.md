@@ -1,6 +1,5 @@
 
 
-![Full Stack Developer](https://github.com/LucasMarchetti/LucasMarchetti/blob/main/banner.png)
 
 Como Desarrollador de páginas web autónomo, he creado soluciones tecnológicas que impulsan la Liga Regional de Voleibol del NOA Argentino, optimizando la gestión de torneos y automatizando procesos clave. Mi formación en la Tecnicatura en Diseño de Software en la Universidad Nacional de Catamarca, junto con la especialización en Full Stack Web Development de SoyHenry, respalda mi enfoque práctico y teórico en el desarrollo de tecnologías web modernas.
 
@@ -34,6 +33,7 @@ Mi enfoque está centrado en la colaboración y el aprendizaje continuo, integra
   📈 My Github stats <br />
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Shwetang550&theme=dark&show_icons=true" alt="shwetangStats" />  
+    <img src="https://github-readme-stats.vercel.app/api?username=Shwetang550&theme=dark&show_icons=true" alt="shwetangStats" /> 
     <br />
   </p>
 
