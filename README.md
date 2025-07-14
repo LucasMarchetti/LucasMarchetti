@@ -11,16 +11,16 @@ Mi enfoque está centrado en la colaboración y el aprendizaje continuo, integra
 
 <br>
 
-**Languages and Tools**
+**Lenguajes y Tecnologías**
 
-<code><img height="35rem" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" /></code>
 <code><img height="35rem" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></code>
-<code><img height="35rem" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></code>
-<code><img height="35rem" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></code>
 <code><img height="35rem" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></code>
 <code><img height="35rem" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></code>
+<code><img height="35rem" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></code>
 <code><img alt="HTML5" height="35rem" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></code>
 <code><img alt="CSS3" height="35rem" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></code>
+<code><img height="35rem" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" /></code>
+<code><img height="35rem" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></code>
 <code><img height="35rem" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" /></code>
 
 <br />
@@ -29,10 +29,9 @@ Mi enfoque está centrado en la colaboración y el aprendizaje continuo, integra
 
 <br>
 
-  📈 My Github stats <br />
+  📈 My Github <br />
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Shwetang550&theme=dark&show_icons=true" alt="shwetangStats" />  
-    <img src="https://github-readme-stats.vercel.app/api?username=Shwetang550&theme=dark&show_icons=true" alt="shwetangStats" /> 
     <br />
   </p>
 
