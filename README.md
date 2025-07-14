@@ -38,7 +38,8 @@ Mi enfoque está centrado en la colaboración y el aprendizaje continuo, integra
 ### Email 
 luksmarchetti@gmail.com
 
-### LinkedIn
+<code><img height="35rem" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">[Lucas Marchetti](https://www.linkedin.com/in/marchetti-lucas/)
+</code>
 
 [Lucas Marchetti](https://www.linkedin.com/in/marchetti-lucas/)
 
