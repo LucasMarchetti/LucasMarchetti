@@ -9,6 +9,8 @@ También he trabajado con una variedad de librerías de UI, como React Beautiful
 
 Mi enfoque está centrado en la colaboración y el aprendizaje continuo, integrando constantemente innovaciones que mejoren la experiencia de usuario y optimicen la gestión de sistemas complejos.
 
+<br>
+
 ### Lenguajes y Tecnologías 
 
 <br>
